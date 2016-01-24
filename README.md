@@ -22,5 +22,8 @@ python3 RMgSn_Transferred_Bhf_plot.py {results.dat} {plot.png} {KDE bandwidth (o
 run.sh is a convenience script that will run all the configuration files and create all the plots.
 Configuration files are found in the config/ directory, the results are saved in the results/ directory, and the plots are created in the plots/ directory.
 
+## Results
+The following plots were generated using these scripts. They do not *exactly* match the plots found in the paper since the moment magnitude is modulated randomly.
 
 
+![NdMgSn 4K](plots/NdMgSn_4K.png?raw=true "NdMgSn T=4K")
