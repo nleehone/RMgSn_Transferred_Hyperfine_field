@@ -26,4 +26,4 @@ Configuration files are found in the config/ directory, the results are saved in
 The following plots were generated using these scripts. They do not *exactly* match the plots found in the paper since the moment magnitude is modulated randomly.
 
 #### NdMgSn T=4 K
-![NdMgSn 4K](plots/NdMgSn_4K.png?raw=true "NdMgSn T=4K" =250x)
+![NdMgSn 4K](plots/NdMgSn_4K.png?raw=true "NdMgSn T=4K"){:height="250px" width="250px"}
