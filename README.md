@@ -10,9 +10,11 @@ Once the magnitude of the transferred moments has been saved the RMgSn_Transferr
 ## Usage
 ### Manual:
 **Calculating the distribution of transferred hyperfine fields at the Sn site:**
+
 python3 RMgSn_Transferred_Bhf.py {config.py} {results.dat}
 
 **Plotting the distribution:**
+
 python3 RMgSn_Transferred_Bhf_plot.py {results.dat} {plot.png} {KDE bandwidth (optional. defaults to 0.05)}
 
 ### Automatic:
