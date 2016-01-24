@@ -26,4 +26,25 @@ Configuration files are found in the config/ directory, the results are saved in
 The following plots were generated using these scripts. They do not *exactly* match the plots found in the paper since the moment magnitude is modulated randomly.
 
 #### NdMgSn T=4 K
-<img src="/nleehone/RMgSn_Transferred_Hyperfine_field/raw/master/plots/NdMgSn_4K.png?raw=true" alt="NdMgSn 4K" title="NdMgSn T=4K" style="max-width:250px;">
+![NdMgSn 4K](plots/NdMgSn_4K.png?raw=true "NdMgSn T=4 K")
+
+#### HoMgSn T=4 K
+![HoMgSn 4K](plots/HoMgSn_4K.png?raw=true "HoMgSn T=4 K")
+
+#### DyMgSn T=4 K
+![DyMgSn 4K](plots/DyMgSn_4K.png?raw=true "DyMgSn T=4 K")
+
+#### DyMgSn T=14.8 K
+![DyMgSn 14.8K](plots/DyMgSn_14p8K.png?raw=true "DyMgSn T=14.8 K")
+
+#### TbMgSn Cycloidal T=4 K
+![TbMgSn Cycloidal 4K](plots/TbMgSn_cycloidal_4K.png?raw=true "TbMgSn Cycloidal T=4 K")
+
+#### TbMgSn Sine T=4 K
+![DyMgSn Sine 4K](plots/TbMgSn_sine_4K.png?raw=true "TbMgSn Sine T=4 K")
+
+#### ErMgSn k=(0.800, 0, 0) T=4 K
+![ErMgSn k=(0.800, 0, 0) 4K](plots/ErMgSn_k0p8_4K.png?raw=true "ErMgSn k=(0.800, 0, 0) 4K")
+
+#### ErMgSn k=(0.801, 0, 0) T=4 K
+![ErMgSn k=(0.801, 0, 0) 4K](plots/ErMgSn_k0p801_4K.png?raw=true "ErMgSn k=(0.801, 0, 0) 4K")
