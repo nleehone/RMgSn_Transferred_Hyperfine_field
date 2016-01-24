@@ -1,6 +1,6 @@
 # Transferred Hyperfine Field Calculation for RMgSn
 
-This is a Python implementation of the method for calculating the transferred hyperfine field at the Sn site in the tetragonal RMgSn compounds described in [*N. R. Lee-Hone et al., Hyperfine Interactions **226** 309-319 (2014)*](http://www.physics.mcgill.ca/~dominic/papers201x/Sn119Bhf_HypInt_226_2014_p309.pdf).
+This is a Python implementation of the method for calculating the transferred hyperfine field at the Sn site in the tetragonal RMgSn compounds described in [N. R. Lee-Hone et al., Hyperfine Interactions **226** 309-319 (2014)](http://www.physics.mcgill.ca/~dominic/papers201x/Sn119Bhf_HypInt_226_2014_p309.pdf).
 
 ## How it works
 The RMgSn_Transferred_Bhf.py script reads the configuration file and then generates Sn atoms based on the parameters in the configuration file. Then for each Sn atom, it generates the nearest neighbour rare earth atoms and assigns a magnetic moment to each based on the description in the configuration file. The moments are then vector summed and the magnitude of the vector sum is recorded.
